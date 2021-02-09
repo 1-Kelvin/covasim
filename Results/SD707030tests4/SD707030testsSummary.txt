@@ -1,0 +1,73 @@
+Simulation summary:
+social distancing 0.7w 0.7s 0.3c test: 250n, 2d
+cum_infections: 211979.179
+cum_infectious: 211761.76
+cum_tests: 90163.677
+cum_diagnoses: 23270.379
+cum_recoveries: 210981.329
+cum_symptomatic: 141620.689
+cum_severe: 8993.252
+cum_critical: 1689.035
+cum_deaths: 990.973
+cum_quarantined: 72335.108
+
+social distancing 0.7w 0.7s 0.3c test: 250n, 1d
+cum_infections: 209258.738
+cum_infectious: 209305.838
+cum_tests: 90136.454
+cum_diagnoses: 24603.912
+cum_recoveries: 208284.223
+cum_symptomatic: 141172.812
+cum_severe: 8808.68
+cum_critical: 1580.636
+cum_deaths: 999.075
+cum_quarantined: 77689.859
+
+social distancing 0.7w 0.7s 0.3c test: 500n, 2d
+cum_infections: 194448.687
+cum_infectious: 194370.141
+cum_tests: 180372.413
+cum_diagnoses: 43056.87
+cum_recoveries: 193580.068
+cum_symptomatic: 129160.149
+cum_severe: 8234.27
+cum_critical: 1496.622
+cum_deaths: 923.367
+cum_quarantined: 132642.857
+
+social distancing 0.7w 0.7s 0.3c test: 500n, 1d
+cum_infections: 12546.106
+cum_infectious: 11269.481
+cum_tests: 180274.564
+cum_diagnoses: 6640.108
+cum_recoveries: 9623.694
+cum_symptomatic: 7482.2
+cum_severe: 444.001
+cum_critical: 64.091
+cum_deaths: 39.747
+cum_quarantined: 27335.156
+
+social distancing 0.7w 0.7s 0.3c test: 1000n, 2d
+cum_infections: 149154.481
+cum_infectious: 149059.256
+cum_tests: 360781.201
+cum_diagnoses: 66621.515
+cum_recoveries: 148187.288
+cum_symptomatic: 100327.505
+cum_severe: 6238.774
+cum_critical: 1182.563
+cum_deaths: 710.023
+cum_quarantined: 212514.551
+
+social distancing 0.7w 0.7s 0.3c test: 1000n, 1d
+cum_infections: 2109.6
+cum_infectious: 2109.0
+cum_tests: 360929.2
+cum_diagnoses: 1560.8
+cum_recoveries: 2099.2
+cum_symptomatic: 1435.6
+cum_severe: 84.0
+cum_critical: 17.0
+cum_deaths: 9.4
+cum_quarantined: 7064.6
+

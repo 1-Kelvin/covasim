@@ -1,0 +1,25 @@
+Simulation summary:
+sd 0.7w 0.7s 0.3c tests:250n,1d
+cum_infections: 207610.006
+cum_infectious: 207616.155
+cum_tests: 90116.09
+cum_diagnoses: 24140.781
+cum_recoveries: 206604.914
+cum_symptomatic: 139561.848
+cum_severe: 8917.599
+cum_critical: 1641.975
+cum_deaths: 988.695
+cum_quarantined: 77263.989
+
+sd 0.7w 0.7s 0.3c tests:250n,0d
+cum_infections: 4051.362
+cum_infectious: 3995.819
+cum_tests: 90078.851
+cum_diagnoses: 2572.963
+cum_recoveries: 3881.429
+cum_symptomatic: 2625.062
+cum_severe: 162.232
+cum_critical: 36.85
+cum_deaths: 21.48
+cum_quarantined: 10901.362
+

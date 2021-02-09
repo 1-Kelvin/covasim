@@ -1,0 +1,13 @@
+Simulation summary:
+Social distancing
+cum_infections: 280604.283
+cum_infectious: 280554.975
+cum_tests: 240916.592
+cum_diagnoses: 67366.6
+cum_recoveries: 278691.727
+cum_symptomatic: 188747.478
+cum_severe: 12989.198
+cum_critical: 2610.395
+cum_deaths: 1932.961
+cum_quarantined: 240289.731
+

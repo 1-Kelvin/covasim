@@ -1,0 +1,37 @@
+Simulation summary:
+nTests:4000,SD:40%
+cum_infections: 117100.615
+cum_infectious: 116988.169
+cum_tests: 1803763.004
+cum_diagnoses: 81237.054
+cum_recoveries: 115137.851
+cum_symptomatic: 78245.635
+cum_severe: 5241.119
+cum_critical: 983.269
+cum_deaths: 592.347
+cum_quarantined: 342236.237
+
+nTests:4000,SD:50%
+cum_infections: 964.0
+cum_infectious: 964.0
+cum_tests: 1804000.0
+cum_diagnoses: 823.0
+cum_recoveries: 961.0
+cum_symptomatic: 648.0
+cum_severe: 46.0
+cum_critical: 7.0
+cum_deaths: 3.0
+cum_quarantined: 3955.0
+
+nTests:4000,SD:60%
+cum_infections: 593.0
+cum_infectious: 593.0
+cum_tests: 1804000.0
+cum_diagnoses: 516.0
+cum_recoveries: 589.0
+cum_symptomatic: 406.0
+cum_severe: 26.0
+cum_critical: 5.0
+cum_deaths: 3.0
+cum_quarantined: 2319.0
+

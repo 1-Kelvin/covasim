@@ -1,0 +1,97 @@
+Simulation summary:
+social distancing w:30.0 s:30.0 c:30.0
+cum_infections: 1395.0
+cum_infectious: 1395.0
+cum_tests: 45250.0
+cum_diagnoses: 909.0
+cum_recoveries: 1385.0
+cum_symptomatic: 907.0
+cum_severe: 62.0
+cum_critical: 12.0
+cum_deaths: 8.0
+cum_quarantined: 2915.0
+
+social distancing w:30.0 s:30.0 c:70.0
+cum_infections: 277117.525
+cum_infectious: 276805.817
+cum_tests: 45186.725
+cum_diagnoses: 21641.85
+cum_recoveries: 272808.17
+cum_symptomatic: 187289.118
+cum_severe: 13409.172
+cum_critical: 2727.059
+cum_deaths: 2057.247
+cum_quarantined: 70737.251
+
+social distancing w:30.0 s:70.0 c:30.0
+cum_infections: 1814.0
+cum_infectious: 1811.0
+cum_tests: 45250.0
+cum_diagnoses: 1221.0
+cum_recoveries: 1780.0
+cum_symptomatic: 1211.0
+cum_severe: 81.0
+cum_critical: 18.0
+cum_deaths: 8.0
+cum_quarantined: 4194.0
+
+social distancing w:30.0 s:70.0 c:70.0
+cum_infections: 290748.227
+cum_infectious: 290435.161
+cum_tests: 45193.282
+cum_diagnoses: 20942.429
+cum_recoveries: 287292.338
+cum_symptomatic: 196022.491
+cum_severe: 13718.645
+cum_critical: 2789.796
+cum_deaths: 2209.118
+cum_quarantined: 70545.25
+
+social distancing w:70.0 s:30.0 c:30.0
+cum_infections: 159117.083
+cum_infectious: 151027.275
+cum_tests: 45153.884
+cum_diagnoses: 17074.666
+cum_recoveries: 129744.606
+cum_symptomatic: 100467.397
+cum_severe: 6422.392
+cum_critical: 1067.721
+cum_deaths: 556.105
+cum_quarantined: 57958.599
+
+social distancing w:70.0 s:30.0 c:70.0
+cum_infections: 309677.26
+cum_infectious: 309767.456
+cum_tests: 45207.565
+cum_diagnoses: 18228.663
+cum_recoveries: 307371.658
+cum_symptomatic: 209732.279
+cum_severe: 14802.922
+cum_critical: 3082.421
+cum_deaths: 2400.392
+cum_quarantined: 66215.498
+
+social distancing w:70.0 s:70.0 c:30.0
+cum_infections: 198951.483
+cum_infectious: 195559.6
+cum_tests: 45163.677
+cum_diagnoses: 18589.506
+cum_recoveries: 184289.353
+cum_symptomatic: 130849.18
+cum_severe: 7914.241
+cum_critical: 1316.65
+cum_deaths: 741.899
+cum_quarantined: 61948.504
+
+social distancing w:70.0 s:70.0 c:70.0
+cum_infections: 320077.931
+cum_infectious: 320137.971
+cum_tests: 45210.077
+cum_diagnoses: 17908.082
+cum_recoveries: 317601.865
+cum_symptomatic: 216121.09
+cum_severe: 15126.491
+cum_critical: 3057.476
+cum_deaths: 2380.55
+cum_quarantined: 66598.43
+

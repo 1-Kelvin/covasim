@@ -1,0 +1,181 @@
+Simulation summary:
+nTests:500,SD:0.0%
+cum_infections: 353932.03
+cum_infectious: 354087.23
+cum_tests: 180464.781
+cum_diagnoses: 28657.628
+cum_recoveries: 351289.816
+cum_symptomatic: 237734.314
+cum_severe: 16787.149
+cum_critical: 3642.292
+cum_deaths: 2842.68
+cum_quarantined: 131261.513
+
+nTests:500,SD:19.999999999999996%
+cum_infections: 328401.164
+cum_infectious: 328460.309
+cum_tests: 180454.194
+cum_diagnoses: 32940.823
+cum_recoveries: 325976.159
+cum_symptomatic: 221729.958
+cum_severe: 15436.755
+cum_critical: 3189.253
+cum_deaths: 2614.74
+cum_quarantined: 131203.851
+
+nTests:500,SD:40.0%
+cum_infections: 277253.887
+cum_infectious: 277198.348
+cum_tests: 180417.993
+cum_diagnoses: 39998.949
+cum_recoveries: 274988.673
+cum_symptomatic: 187182.869
+cum_severe: 12944.898
+cum_critical: 2657.622
+cum_deaths: 2001.265
+cum_quarantined: 134888.582
+
+nTests:500,SD:60.00000000000001%
+cum_infections: 1695.0
+cum_infectious: 1695.0
+cum_tests: 180500.0
+cum_diagnoses: 1193.0
+cum_recoveries: 1683.0
+cum_symptomatic: 1135.0
+cum_severe: 76.0
+cum_critical: 13.0
+cum_deaths: 8.0
+cum_quarantined: 4689.0
+
+nTests:500,SD:80.0%
+cum_infections: 455.0
+cum_infectious: 455.0
+cum_tests: 180500.0
+cum_diagnoses: 315.0
+cum_recoveries: 451.0
+cum_symptomatic: 302.0
+cum_severe: 21.0
+cum_critical: 4.0
+cum_deaths: 2.0
+cum_quarantined: 1207.0
+
+nTests:2000,SD:0.0%
+cum_infections: 292432.704
+cum_infectious: 292466.684
+cum_tests: 721962.842
+cum_diagnoses: 100907.617
+cum_recoveries: 290111.002
+cum_symptomatic: 197737.082
+cum_severe: 13896.038
+cum_critical: 2937.795
+cum_deaths: 2280.555
+cum_quarantined: 381335.055
+
+nTests:2000,SD:19.999999999999996%
+cum_infections: 251571.39
+cum_infectious: 251620.797
+cum_tests: 721944.338
+cum_diagnoses: 109525.108
+cum_recoveries: 249777.655
+cum_symptomatic: 169762.741
+cum_severe: 11802.013
+cum_critical: 2385.39
+cum_deaths: 1773.611
+cum_quarantined: 398188.193
+
+nTests:2000,SD:40.0%
+cum_infections: 168377.79
+cum_infectious: 168400.093
+cum_tests: 721847.646
+cum_diagnoses: 101719.365
+cum_recoveries: 167161.386
+cum_symptomatic: 114300.471
+cum_severe: 7952.423
+cum_critical: 1596.917
+cum_deaths: 957.972
+cum_quarantined: 374826.702
+
+nTests:2000,SD:60.00000000000001%
+cum_infections: 924.0
+cum_infectious: 924.0
+cum_tests: 722000.0
+cum_diagnoses: 721.0
+cum_recoveries: 918.0
+cum_symptomatic: 626.0
+cum_severe: 37.0
+cum_critical: 6.0
+cum_deaths: 3.0
+cum_quarantined: 3035.0
+
+nTests:2000,SD:80.0%
+cum_infections: 362.0
+cum_infectious: 362.0
+cum_tests: 722000.0
+cum_diagnoses: 280.0
+cum_recoveries: 361.0
+cum_symptomatic: 245.0
+cum_severe: 14.0
+cum_critical: 3.0
+cum_deaths: 2.0
+cum_quarantined: 1146.0
+
+nTests:4000,SD:0.0%
+cum_infections: 225328.543
+cum_infectious: 225400.189
+cum_tests: 1443954.701
+cum_diagnoses: 142477.012
+cum_recoveries: 224039.342
+cum_symptomatic: 152789.744
+cum_severe: 10734.62
+cum_critical: 2175.782
+cum_deaths: 1585.474
+cum_quarantined: 552334.767
+
+nTests:4000,SD:19.999999999999996%
+cum_infections: 188657.74
+cum_infectious: 188599.205
+cum_tests: 1443932.557
+cum_diagnoses: 127404.612
+cum_recoveries: 187564.501
+cum_symptomatic: 127568.334
+cum_severe: 8956.218
+cum_critical: 1847.301
+cum_deaths: 1133.387
+cum_quarantined: 511111.892
+
+nTests:4000,SD:40.0%
+cum_infections: 83063.477
+cum_infectious: 79605.698
+cum_tests: 1443776.274
+cum_diagnoses: 54437.054
+cum_recoveries: 71867.851
+cum_symptomatic: 52605.635
+cum_severe: 3703.731
+cum_critical: 694.893
+cum_deaths: 358.851
+cum_quarantined: 238086.237
+
+nTests:4000,SD:60.00000000000001%
+cum_infections: 593.0
+cum_infectious: 593.0
+cum_tests: 1444000.0
+cum_diagnoses: 516.0
+cum_recoveries: 589.0
+cum_symptomatic: 406.0
+cum_severe: 26.0
+cum_critical: 5.0
+cum_deaths: 3.0
+cum_quarantined: 2319.0
+
+nTests:4000,SD:80.0%
+cum_infections: 318.0
+cum_infectious: 318.0
+cum_tests: 1444000.0
+cum_diagnoses: 261.0
+cum_recoveries: 318.0
+cum_symptomatic: 215.0
+cum_severe: 14.0
+cum_critical: 2.0
+cum_deaths: 1.0
+cum_quarantined: 1112.0
+

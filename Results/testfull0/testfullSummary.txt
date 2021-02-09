@@ -1,0 +1,109 @@
+Simulation summary:
+sd 0.7w 0.7s 0.3c tests:250n,3d
+cum_infections: 213992.061
+cum_infectious: 214113.37
+cum_tests: 90173.727
+cum_diagnoses: 22437.926
+cum_recoveries: 213010.997
+cum_symptomatic: 143870.04
+cum_severe: 9155.174
+cum_critical: 1626.515
+cum_deaths: 1007.788
+cum_quarantined: 68009.118
+
+sd 0.7w 0.7s 0.3c tests:250n,2d
+cum_infections: 213404.132
+cum_infectious: 213343.594
+cum_tests: 90163.789
+cum_diagnoses: 23028.38
+cum_recoveries: 212361.081
+cum_symptomatic: 142586.928
+cum_severe: 9244.709
+cum_critical: 1747.066
+cum_deaths: 1085.167
+cum_quarantined: 71552.491
+
+sd 0.7w 0.7s 0.3c tests:250n,1d
+cum_infections: 207610.006
+cum_infectious: 207616.155
+cum_tests: 90116.09
+cum_diagnoses: 24140.781
+cum_recoveries: 206604.914
+cum_symptomatic: 139561.848
+cum_severe: 8917.599
+cum_critical: 1641.975
+cum_deaths: 988.695
+cum_quarantined: 77263.989
+
+sd 0.7w 0.7s 0.3c tests:500n,3d
+cum_infections: 198741.712
+cum_infectious: 198717.605
+cum_tests: 180406.787
+cum_diagnoses: 41423.159
+cum_recoveries: 197926.313
+cum_symptomatic: 133108.705
+cum_severe: 8196.126
+cum_critical: 1531.81
+cum_deaths: 941.48
+cum_quarantined: 124478.19
+
+sd 0.7w 0.7s 0.3c tests:500n,2d
+cum_infections: 189200.891
+cum_infectious: 189185.233
+cum_tests: 180358.732
+cum_diagnoses: 43362.284
+cum_recoveries: 188215.843
+cum_symptomatic: 127215.619
+cum_severe: 8214.575
+cum_critical: 1430.359
+cum_deaths: 910.584
+cum_quarantined: 134487.65
+
+sd 0.7w 0.7s 0.3c tests:500n,1d
+cum_infections: 83220.549
+cum_infectious: 71004.948
+cum_tests: 180266.422
+cum_diagnoses: 18003.499
+cum_recoveries: 49234.296
+cum_symptomatic: 45948.87
+cum_severe: 2128.282
+cum_critical: 341.522
+cum_deaths: 147.532
+cum_quarantined: 68660.827
+
+sd 0.7w 0.7s 0.3c tests:1000n,3d
+cum_infections: 167471.919
+cum_infectious: 167434.913
+cum_tests: 360875.818
+cum_diagnoses: 65245.018
+cum_recoveries: 166803.123
+cum_symptomatic: 111773.869
+cum_severe: 6932.997
+cum_critical: 1229.595
+cum_deaths: 735.994
+cum_quarantined: 200664.663
+
+sd 0.7w 0.7s 0.3c tests:1000n,2d
+cum_infections: 143817.849
+cum_infectious: 143477.354
+cum_tests: 360755.788
+cum_diagnoses: 65882.898
+cum_recoveries: 142609.398
+cum_symptomatic: 96713.189
+cum_severe: 6163.011
+cum_critical: 1060.309
+cum_deaths: 652.839
+cum_quarantined: 212350.492
+
+sd 0.7w 0.7s 0.3c tests:1000n,1d
+cum_infections: 1875.0
+cum_infectious: 1875.0
+cum_tests: 361000.0
+cum_diagnoses: 1367.0
+cum_recoveries: 1864.0
+cum_symptomatic: 1269.0
+cum_severe: 75.0
+cum_critical: 13.2
+cum_deaths: 8.0
+cum_quarantined: 6080.0
+

@@ -1,0 +1,37 @@
+Simulation summary:
+Baseline
+cum_infections: 309901.017
+cum_infectious: 309967.492
+cum_tests: 180453.453
+cum_diagnoses: 34493.736
+cum_recoveries: 307777.958
+cum_symptomatic: 208551.089
+cum_severe: 14800.87
+cum_critical: 2993.065
+cum_deaths: 2359.637
+cum_quarantined: 122567.138
+
+Social distancing
+cum_infections: 190544.217
+cum_infectious: 190597.636
+cum_tests: 180343.6
+cum_diagnoses: 43791.235
+cum_recoveries: 189645.518
+cum_symptomatic: 127130.541
+cum_severe: 8059.299
+cum_critical: 1440.884
+cum_deaths: 857.653
+cum_quarantined: 137108.354
+
+Increased Testing
+cum_infections: 175642.439
+cum_infectious: 175751.124
+cum_tests: 721898.343
+cum_diagnoses: 102548.355
+cum_recoveries: 174761.839
+cum_symptomatic: 119490.585
+cum_severe: 8344.422
+cum_critical: 1692.24
+cum_deaths: 1000.746
+cum_quarantined: 509148.39
+
